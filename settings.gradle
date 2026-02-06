@@ -1,0 +1,2 @@
+rootProject.name = "Whats2PS"
+include ':app'
